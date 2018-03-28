@@ -46,7 +46,7 @@
                 </el-col>
                 <el-col :span="6">
                   	<div class="fbox ">
-								        <label class="input_lab">*订单号</label>
+								        <label class="input_lab"><span>*</span>订单号</label>
 								        <div class="">
 								          <el-input
                             placeholder="请输入内容"
